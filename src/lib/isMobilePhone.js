@@ -160,6 +160,7 @@ const phones = {
   'ar-EH': /^(\+?212|0)[\s\-]?(5288|5289)[\s\-]?\d{5}$/,
   'fa-AF': /^(\+93|0)?(2{1}[0-8]{1}|[3-5]{1}[0-4]{1})(\d{7})$/,
   // this is where I will add the new number 
+  'en-CA': /^((\+?1-?)|0)?[2-9]([0-9]{2})?[2-9]\d{6}$/,
 };
 /* eslint-enable max-len */
 
